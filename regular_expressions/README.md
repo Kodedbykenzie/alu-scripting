@@ -8,5 +8,5 @@ Because the focus of this exercise is to play with regular expressions (regex), 
 
 ## Resources
 - [Regular expressions - basics](https://www.regular-expressions.info/quickstart.html)
-- [Regular expressions - advanced] (https://intranet.aluswe.com/rltoken/Yb5one1viWFGAzQ9UlqfJA)
-- [Learn Regular Expressions with simple, interactive exercises] (https://intranet.aluswe.com/rltoken/2wFrv2KDEeF1OKKX8CrtsQ0
+- [Regular expressions - advanced](https://intranet.aluswe.com/rltoken/Yb5one1viWFGAzQ9UlqfJA)
+- [Learn Regular Expressions with simple, interactive exercises](https://intranet.aluswe.com/rltoken/2wFrv2KDEeF1OKKX8CrtsQ0)
